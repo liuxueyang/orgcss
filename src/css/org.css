@@ -344,8 +344,8 @@ p.verse {
 }
 
 .org-src-container {
-    border: 1px solid #ccc;
-    box-shadow: 3px 3px 3px #eee;
+    /* border: 1px solid #ccc; */
+    /* box-shadow: 3px 3px 3px #eee; */
     font-family: $monospace;
     font-size: $code-size;
     margin: 1em auto;
